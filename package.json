@@ -1,0 +1,32 @@
+{
+  "name": "ssr-next",
+  "version": "1.0.0",
+  "description": "ssr",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuoYongfeng/ssr-next.git"
+  },
+  "keywords": [
+    "next.js",
+    "react",
+    "koa"
+  ],
+  "author": "yoffe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuoYongfeng/ssr-next/issues"
+  },
+  "homepage": "https://github.com/GuoYongfeng/ssr-next#readme",
+  "dependencies": {
+    "next": "^2.4.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
