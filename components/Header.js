@@ -12,6 +12,9 @@ const Header = () => (
         <Link href="/about">
           <a style={linkStyle}> 关于我们 </a>
         </Link>
+        <Link href="/getData">
+          <a style={linkStyle}> 异步获取数据的写法 </a>
+        </Link>
     </div>
 )
 

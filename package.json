@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/GuoYongfeng/ssr-next#readme",
   "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
     "next": "^2.4.3",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"

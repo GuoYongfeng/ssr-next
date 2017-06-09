@@ -43,7 +43,15 @@ var Header = function Header() {
       fileName: _jsxFileName,
       lineNumber: 13
     }
-  }, " \u5173\u4E8E\u6211\u4EEC ")));
+  }, " \u5173\u4E8E\u6211\u4EEC ")), _react2.default.createElement(_link2.default, { href: "/getData", __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    }
+  }, _react2.default.createElement("a", { style: linkStyle, __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    }
+  }, " \u5F02\u6B65\u83B7\u53D6\u6570\u636E\u7684\u5199\u6CD5 ")));
 };
 
 exports.default = Header;
